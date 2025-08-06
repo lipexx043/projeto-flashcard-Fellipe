@@ -1,0 +1,10 @@
+criaCartao('Agricultura', 'O que é rotação de culturas?', 'É a prática de alternar diferentes culturas na mesma área para preservar o solo.');
+criaCartao('Solo', 'Qual é o pH ideal do solo para a maioria das culturas?', 'Entre 5,5 e 6,5.');
+criaCartao('Adubação', 'Qual é a função do nitrogênio nas plantas?', 'Estimular o crescimento vegetativo.');
+criaCartao('Máquinas', 'Para que serve uma semeadora?', 'Para distribuir sementes no solo.');
+criaCartao('Clima', 'O que é umidade relativa do ar?', 'É a quantidade de vapor d’água presente no ar em relação ao máximo que ele pode conter.');
+criaCartao('Fitossanidade', 'O que é controle biológico?', 'Uso de organismos naturais para controlar pragas.');
+criaCartao('Irrigação', 'Qual é o sistema mais eficiente de irrigação?', 'Gotejamento.');
+criaCartao('Culturas', 'Qual cultura é a base da alimentação no Brasil?', 'O milho.');
+criaCartao('Pecuária', 'O que é silagem?', 'Conservação de forragens por fermentação.');
+criaCartao('Tecnologia', 'O que é agricultura de precisão?', 'Uso de tecnologias para otimizar a produção agrícola.');
